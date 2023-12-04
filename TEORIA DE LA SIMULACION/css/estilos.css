@@ -1,0 +1,40 @@
+.div-titulo{
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 10px;
+}
+
+#div-servicios{
+    height: 250px;
+    overflow-y: scroll;
+}
+
+#div-clientes-cola{
+	height: 600px;
+    /*overflow-y: scroll;*/
+}
+
+#div-clientes{
+	border-right: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+}
+
+#titulo-notas{
+	margin-top: 0;
+}
+body {
+	background-color: #bf7fec; 
+}
+
+.container-fluid {
+	background-color: #cb9bec;
+	border-radius: 10px;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin-top: 20px;
+}
+
+.titulo-simulacion {
+	text-align: center;
+	color: #6a0dad; /* Color lila */
+	margin-bottom: 30px;
+}
